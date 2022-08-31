@@ -1,0 +1,19 @@
+{
+  "blogPosts": [
+    {
+      "title": "Api Post",
+      "content": "Content for my post is really long and takes up a lot of space so goes to next line",
+      "id": 1
+    },
+    {
+      "title": "New api post",
+      "content": "Some content",
+      "id": 2
+    },
+    {
+      "title": "Add a post and edited",
+      "content": "Again",
+      "id": 3
+    }
+  ]
+}
